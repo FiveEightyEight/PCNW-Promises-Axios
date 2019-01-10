@@ -27,7 +27,7 @@ const getImagesInPage = (pageUrl, pageHtml, cb) => {
 getImagesInPagePromisified('url', 'html')
   .then(imageUrls => {
     console.log(imageUrls);
-  })
+  }, _=>{})
 ```
 
 ## Problem 2

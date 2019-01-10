@@ -1,0 +1,29 @@
+{
+  "name": "pcnw-promises-axios",
+  "version": "1.0.0",
+  "description": "## Problem 1",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "request": "^2.88.0",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FiveEightyEight/PCNW-Promises-Axios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FiveEightyEight/PCNW-Promises-Axios/issues"
+  },
+  "homepage": "https://github.com/FiveEightyEight/PCNW-Promises-Axios#readme"
+}
